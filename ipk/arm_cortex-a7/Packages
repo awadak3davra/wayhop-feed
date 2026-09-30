@@ -1,0 +1,14 @@
+Package: wayhop
+Version: 0.5.7-1
+Architecture: arm_cortex-a7
+Maintainer: WayHop <noreply@wayhop.dev>
+Section: net
+Priority: optional
+Installed-Size: 14356823
+Description: Self-hosted web panel to configure any VPN/proxy protocol on your router,
+ with one-click failover, health checks, live traffic graphs and list-based routing.
+ One static Go binary embedding the UI; orchestrates sing-box plus engine plugins.
+Filename: wayhop_0.5.7-1_arm_cortex-a7.ipk
+Size: 5617715
+SHA256sum: 07acb8bbc8b85605eef8927f390b0a3a2aa9a4d70eaa4d55965927392e580b78
+

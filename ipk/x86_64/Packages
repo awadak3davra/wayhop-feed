@@ -1,0 +1,14 @@
+Package: wayhop
+Version: 0.5.7-1
+Architecture: x86_64
+Maintainer: WayHop <noreply@wayhop.dev>
+Section: net
+Priority: optional
+Installed-Size: 15180119
+Description: Self-hosted web panel to configure any VPN/proxy protocol on your router,
+ with one-click failover, health checks, live traffic graphs and list-based routing.
+ One static Go binary embedding the UI; orchestrates sing-box plus engine plugins.
+Filename: wayhop_0.5.7-1_x86_64.ipk
+Size: 5859244
+SHA256sum: d30f8dc23e17a6367e9be760b8ff788dc581328ff7b1a13f187390c71694198e
+

@@ -1,0 +1,13 @@
+Package: wayhop
+Version: 0.5.7-1
+Architecture: mipselsf-k3.4
+Maintainer: WayHop <noreply@wayhop.dev>
+Section: net
+Priority: optional
+Installed-Size: 16062490
+Description: Self-hosted web panel to configure any VPN/proxy protocol on your router
+ (Entware/Keenetic build, installs under /opt). One static Go binary embedding the UI.
+Filename: wayhop_0.5.7-1_mipselsf-k3.4.ipk
+Size: 5399367
+SHA256sum: 79af1f7dda8fc5ac16ce8e5747802aa285af5f160b414cdf213dade477e24149
+

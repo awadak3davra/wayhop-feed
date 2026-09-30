@@ -1,0 +1,13 @@
+Package: wayhop
+Version: 0.5.7-1
+Architecture: armv7sf-k3.2
+Maintainer: WayHop <noreply@wayhop.dev>
+Section: net
+Priority: optional
+Installed-Size: 14358523
+Description: Self-hosted web panel to configure any VPN/proxy protocol on your router
+ (Entware/Keenetic build, installs under /opt). One static Go binary embedding the UI.
+Filename: wayhop_0.5.7-1_armv7sf-k3.2.ipk
+Size: 5617312
+SHA256sum: 16a92d01690f62e0254827393a85d26092674197be0e590044c2152c999fac27
+

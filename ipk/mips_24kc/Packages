@@ -1,0 +1,14 @@
+Package: wayhop
+Version: 0.5.7-1
+Architecture: mips_24kc
+Maintainer: WayHop <noreply@wayhop.dev>
+Section: net
+Priority: optional
+Installed-Size: 16060790
+Description: Self-hosted web panel to configure any VPN/proxy protocol on your router,
+ with one-click failover, health checks, live traffic graphs and list-based routing.
+ One static Go binary embedding the UI; orchestrates sing-box plus engine plugins.
+Filename: wayhop_0.5.7-1_mips_24kc.ipk
+Size: 5478327
+SHA256sum: 2ffd92b6ac37d57dab9307c7d9d20fe8859e307b77d703f0f29485d770f86a18
+
