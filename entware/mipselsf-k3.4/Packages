@@ -1,0 +1,41 @@
+Package: amneziawg-go
+Version: 3.1.20260828-r2
+Source: https://github.com/amnezia-vpn/amneziawg-go
+License: MIT
+Section: net
+Priority: optional
+Maintainer: WayHop <noreply@wayhop.dev>
+Architecture: mipselsf-k3.4
+Installed-Size: 3801245
+Description: AmneziaWG 3.1 userspace daemon (amneziawg-go v3.1.20260828, WayHop low-memory build)
+Filename: amneziawg-go_3.1.20260828-r2_mipselsf-k3.4.ipk
+Size: 1384787
+SHA256sum: 36979f445e341a2bcad9de9918954c7c112be2c3c8fbee0ffcf00da5a5758cd2
+
+Package: amneziawg-tools
+Version: 3.1.20260812-r2
+Source: https://github.com/amnezia-vpn/amneziawg-tools
+License: GPL-2.0
+Section: net
+Priority: optional
+Maintainer: WayHop <noreply@wayhop.dev>
+Architecture: mipselsf-k3.4
+Installed-Size: 197684
+Description: AmneziaWG 3.1 configuration tool awg (amneziawg-tools v3.1.20260812, static)
+Filename: amneziawg-tools_3.1.20260812-r2_mipselsf-k3.4.ipk
+Size: 79912
+SHA256sum: b5eaeae25aa5ff652123a01d45bdb27c2aa2fff7b2b466e6dd04335bc8a7cc4e
+
+Package: wayhop
+Version: 0.5.8-1
+Architecture: mipselsf-k3.4
+Maintainer: WayHop <noreply@wayhop.dev>
+Section: net
+Priority: optional
+Installed-Size: 16324634
+Description: Self-hosted web panel to configure any VPN/proxy protocol on your router
+ (Entware/Keenetic build, installs under /opt). One static Go binary embedding the UI.
+Filename: wayhop_0.5.8-1_mipselsf-k3.4.ipk
+Size: 5481068
+SHA256sum: 1384653fc0f44623857e6c15e415452b6ce1f960cea11948b1d5ac7d93c43f06
+

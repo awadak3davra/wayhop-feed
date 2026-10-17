@@ -1,0 +1,11 @@
+release=25.12.5
+target=bcm27xx
+subtarget=bcm2711
+pkgarch=aarch64_cortex-a72
+pkg_format=apk
+kernel_version=6.12.94
+kernel_dep=kernel=6.12.94~d86904a8814b720e8df4461ccd31347c-r1
+file=amneziawg-tools-3.1.20260812-r2.apk size=35796 sha256=a29edf746ac21a5fe064fb20dcbe9d101df1102b677ea000abdda0f3126f0c8f
+file=kmod-amneziawg-6.12.94.3.1.20260906-r2.apk size=43715 sha256=2fee16894856e35bd6e595c82168d7cbff166ebe6142701bbc4006fb5eaa6350
+file=luci-i18n-amneziawg-ru-3.1.0.20260922-r2.apk size=4157 sha256=aba6d342c40ea3934c87e0f44ef7245cf670436db2935a09059c79ef65d2c09e
+file=luci-proto-amneziawg-3.1.0.20260922-r2.apk size=29965 sha256=21a43fcf0b4fdaaa660fc1e1dadf53c48a2b64ecd149e7f09fd35a600d44344d

@@ -1,0 +1,11 @@
+release=25.12.5
+target=ath79
+subtarget=generic
+pkgarch=mips_24kc
+pkg_format=apk
+kernel_version=6.12.94
+kernel_dep=kernel=6.12.94~f58943ca8e5ad0ff489b492a7983a376-r1
+file=amneziawg-tools-3.1.20260812-r2.apk size=34004 sha256=c37336513ad82b5799d62707a1835b4dfa266155284e05cae5660c54a49510d3
+file=kmod-amneziawg-6.12.94.3.1.20260906-r2.apk size=45283 sha256=a46e7497fb4bee878d19eea8cb588ad0fdcb12315d4518c2bc13775f671967ab
+file=luci-i18n-amneziawg-ru-3.1.0.20260922-r2.apk size=4158 sha256=77b2b3c559dcd12f4d70fc24943184a54a92c49b6050391a076a53bf29ed9875
+file=luci-proto-amneziawg-3.1.0.20260922-r2.apk size=29967 sha256=a63bed5bf60436995af1aaccc79ff825eb341a77d975700435d38361dfcdc2f9

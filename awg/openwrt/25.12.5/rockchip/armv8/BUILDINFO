@@ -1,0 +1,11 @@
+release=25.12.5
+target=rockchip
+subtarget=armv8
+pkgarch=aarch64_generic
+pkg_format=apk
+kernel_version=6.12.94
+kernel_dep=kernel=6.12.94~5fab3a97d147fbf8146094eeebd78fd9-r1
+file=amneziawg-tools-3.1.20260812-r2.apk size=35782 sha256=9acf0d924bd9a7e929f778d2e721b4a694d57aa1ee31bee9fce9b73174e02af1
+file=kmod-amneziawg-6.12.94.3.1.20260906-r2.apk size=43287 sha256=98b69ff6167285d9b8793c3a788695a02c6bcdb0547ee37be4382a272f0f8e7b
+file=luci-i18n-amneziawg-ru-3.1.0.20260922-r2.apk size=4160 sha256=78b050ead607f43521ecf17c3542d84aefc91dc99f76a057b090ec277c093604
+file=luci-proto-amneziawg-3.1.0.20260922-r2.apk size=29966 sha256=f2bf36e5c5255eb1a0435076e31c7d2260f5e6dbe448815bbb3ea095534e1458

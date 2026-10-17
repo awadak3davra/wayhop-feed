@@ -1,0 +1,11 @@
+release=25.12.5
+target=ramips
+subtarget=mt76x8
+pkgarch=mipsel_24kc
+pkg_format=apk
+kernel_version=6.12.94
+kernel_dep=kernel=6.12.94~2fe195f1cc4f533c70c3c6ea555ac460-r1
+file=amneziawg-tools-3.1.20260812-r2.apk size=33423 sha256=c68ebbce1a7b580d5c2cba2ff73b1329c0f37b347dae6c279d95657cf43b9cb4
+file=kmod-amneziawg-6.12.94.3.1.20260906-r2.apk size=38838 sha256=1ddd389602af8b9634ca52a2c85ca99814f296af5a9c720e92380de9f24d55ce
+file=luci-i18n-amneziawg-ru-3.1.0.20260922-r2.apk size=4159 sha256=f9d3b9793743a865300b202745bac8fe64bd83410ab9344ae9d6a07924d28437
+file=luci-proto-amneziawg-3.1.0.20260922-r2.apk size=29965 sha256=36027dc6b8795b8870a8a1069d91e2e62138b452d271943438973cf90f7d921c

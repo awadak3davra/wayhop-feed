@@ -1,0 +1,29 @@
+Package: amneziawg-go
+Version: 3.1.20260828-r2
+Depends: kmod-tun
+Source: https://github.com/amnezia-vpn/amneziawg-go
+License: MIT
+Section: net
+Priority: optional
+Maintainer: WayHop <noreply@wayhop.dev>
+Architecture: arm_cortex-a9
+Installed-Size: 3342462
+Description: AmneziaWG 3.1 userspace daemon (amneziawg-go v3.1.20260828, WayHop low-memory build)
+Filename: amneziawg-go_3.1.20260828-r2_arm_cortex-a9.ipk
+Size: 1413862
+SHA256sum: af1207944c5101b2a9016f7a700b8bb53cc9b52a2e2122d28e327bdc5de57a24
+
+Package: wayhop
+Version: 0.5.8-1
+Architecture: arm_cortex-a9
+Maintainer: WayHop <noreply@wayhop.dev>
+Section: net
+Priority: optional
+Installed-Size: 14618967
+Description: Self-hosted web panel to configure any VPN/proxy protocol on your router,
+ with one-click failover, health checks, live traffic graphs and list-based routing.
+ One static Go binary embedding the UI; orchestrates sing-box plus engine plugins.
+Filename: wayhop_0.5.8-1_arm_cortex-a9.ipk
+Size: 5699815
+SHA256sum: ecef5fb10116c1e056fa46a456faf87b3b081cf5b1a8b831e62b0884dd86e2f1
+
