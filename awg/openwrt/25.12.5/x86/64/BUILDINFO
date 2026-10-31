@@ -1,0 +1,11 @@
+release=25.12.5
+target=x86
+subtarget=64
+pkgarch=x86_64
+pkg_format=apk
+kernel_version=6.12.94
+kernel_dep=kernel=6.12.94~a7bc15f451f9652701ba04af9cfb0b95-r1
+file=amneziawg-tools-3.1.20260812-r2.apk size=35501 sha256=eebc7fb105d6a616f97eefaf49b2188e69b97ee82af4ae67078041d5f107d83b
+file=kmod-amneziawg-6.12.94.3.1.20260906-r2.apk size=41078 sha256=2d1ae9e9a483a131e237bdad41465923c93bb347123e8a8ce7c75f539b912139
+file=luci-i18n-amneziawg-ru-3.1.0.20260922-r2.apk size=4156 sha256=a704c75864deee11c54d836b6f0b6caeb2105274325135bec211f05c7a40bd9c
+file=luci-proto-amneziawg-3.1.0.20260922-r2.apk size=29956 sha256=cfb49725aaff811b88b6fadf647db58489eb54bd0594e2038538fadf5ab8c85a

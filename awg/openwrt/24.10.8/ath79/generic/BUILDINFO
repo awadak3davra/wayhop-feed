@@ -1,0 +1,11 @@
+release=24.10.8
+target=ath79
+subtarget=generic
+pkgarch=mips_24kc
+pkg_format=ipk
+kernel_version=6.6.144
+kernel_dep=kernel (=6.6.144~70248021204b78344d5fb62a0e7f5bea-r1)
+file=amneziawg-tools_3.1.20260812-r2_mips_24kc.ipk size=34145 sha256=2e4f3ae16293fa01620102a80d4b22b2ecc131d0fcd0cfb99bba1a8c1564c093
+file=kmod-amneziawg_6.6.144.3.1.20260906-r2_mips_24kc.ipk size=46322 sha256=509768c2f6e5ac2f31136c8b503d85d761a3e1c1d0a23e85aa4a22471552e246
+file=luci-i18n-amneziawg-ru_3.1.0.20260922-r2_all.ipk size=4370 sha256=5aa57d849c806a11fdbfc288d127aea6896b81430ca2e806e05333a069b22af5
+file=luci-proto-amneziawg_3.1.0.20260922-r2_all.ipk size=29930 sha256=f6defe165c6d29ecd666a4128f0d42aec659b146dbc02bd60147ca88fcbf9f27

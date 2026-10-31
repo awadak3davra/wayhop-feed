@@ -1,0 +1,11 @@
+release=25.12.5
+target=ipq40xx
+subtarget=generic
+pkgarch=arm_cortex-a7_neon-vfpv4
+pkg_format=apk
+kernel_version=6.12.94
+kernel_dep=kernel=6.12.94~5ed030ea8ee0eba7ceb179afb7c2de66-r1
+file=amneziawg-tools-3.1.20260812-r2.apk size=35624 sha256=36adcdde2e35947bc91bc2b2d222ded0598085a7aefea995a14ab5352ccdfd1d
+file=kmod-amneziawg-6.12.94.3.1.20260906-r2.apk size=43442 sha256=7472f47ac61b59707a067efb99be06e287519d9e0fed6799429dc85e404c598d
+file=luci-i18n-amneziawg-ru-3.1.0.20260922-r2.apk size=4161 sha256=aa9ccf253f053385b5b8cc5bb04a5fbebf67cb8d879c905b2095f3d2afcd3d11
+file=luci-proto-amneziawg-3.1.0.20260922-r2.apk size=29966 sha256=551582e8c1a90c815c8c464f83f20d1c367ea2108b7d94a18212d558056ddc37

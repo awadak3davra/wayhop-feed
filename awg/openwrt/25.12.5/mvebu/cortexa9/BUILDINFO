@@ -1,0 +1,11 @@
+release=25.12.5
+target=mvebu
+subtarget=cortexa9
+pkgarch=arm_cortex-a9_vfpv3-d16
+pkg_format=apk
+kernel_version=6.12.94
+kernel_dep=kernel=6.12.94~c15931374924da6bcbbbae34b8ad4535-r1
+file=amneziawg-tools-3.1.20260812-r2.apk size=35541 sha256=7b549a7a7be70a6433c89bb9b4fa8c3dbf9877a0601998c07a7c6e0a8f26f5d7
+file=kmod-amneziawg-6.12.94.3.1.20260906-r2.apk size=43442 sha256=62970e84f97a339a702bee770a386d2fd9768348eaacb8bbae09fa8fc1bb9f6d
+file=luci-i18n-amneziawg-ru-3.1.0.20260922-r2.apk size=4159 sha256=85019c69710fc07cb981fdb66558125e6de27cca096d2e914ee71f25dac17537
+file=luci-proto-amneziawg-3.1.0.20260922-r2.apk size=29968 sha256=6f003f9357eb5f6cf89a9591319bcc65c2f6cab9710298f92d98ede11f700464

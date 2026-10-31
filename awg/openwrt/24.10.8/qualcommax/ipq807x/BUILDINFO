@@ -1,0 +1,11 @@
+release=24.10.8
+target=qualcommax
+subtarget=ipq807x
+pkgarch=aarch64_cortex-a53
+pkg_format=ipk
+kernel_version=6.6.144
+kernel_dep=kernel (=6.6.144~45c74d1430711f6eea4da756da9e29e4-r1)
+file=amneziawg-tools_3.1.20260812-r2_aarch64_cortex-a53.ipk size=35833 sha256=aa2f5d054952c7ee8aca8ec652d06ebf3326370e653db648806f630b808e6677
+file=kmod-amneziawg_6.6.144.3.1.20260906-r2_aarch64_cortex-a53.ipk size=43175 sha256=34686d7cdcba1c6fa44b7df254ba6c21b8e0c080bc749dda49746b938b3e3f26
+file=luci-i18n-amneziawg-ru_3.1.0.20260922-r2_all.ipk size=4375 sha256=28dfe6d8d5560273f4cb270fb45801941310098106504e1db9be6eadd68c509c
+file=luci-proto-amneziawg_3.1.0.20260922-r2_all.ipk size=29934 sha256=dde1ea97fae8b178199fe6b1b4c037692b5e1115a18b01c9ab9f8548e90187d9
