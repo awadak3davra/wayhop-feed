@@ -1,0 +1,11 @@
+release=25.12.5
+target=malta
+subtarget=le
+pkgarch=mipsel_24kc
+pkg_format=apk
+kernel_version=6.12.94
+kernel_dep=kernel=6.12.94~e8f30936ebe15d3ec1be17a1e13f372b-r1
+file=amneziawg-tools-3.1.20260812-r2.apk size=33419 sha256=f0b85a97a4f0658158ab73ab6b604a160692d94908380411da100aeda433ec5b
+file=kmod-amneziawg-6.12.94.3.1.20260906-r2.apk size=45730 sha256=535a8ff4fe7a5b468908bb97331a9a7e88c697b7afc59f30526c626e00875fd8
+file=luci-i18n-amneziawg-ru-3.1.0.20260922-r2.apk size=4155 sha256=0b80ef452532fda47e35b94c2fe8d12a3a72cc4c6af8df9f9f33223c74075a03
+file=luci-proto-amneziawg-3.1.0.20260922-r2.apk size=29959 sha256=70a1f6207bcbc2fc026c488ca893d7e145519225b9cf1a007df2105de834d2e1

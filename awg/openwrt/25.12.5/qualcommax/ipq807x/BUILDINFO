@@ -1,0 +1,11 @@
+release=25.12.5
+target=qualcommax
+subtarget=ipq807x
+pkgarch=aarch64_cortex-a53
+pkg_format=apk
+kernel_version=6.12.94
+kernel_dep=kernel=6.12.94~dbd7ac5945a1d38dbc7f22bedd674e40-r1
+file=amneziawg-tools-3.1.20260812-r2.apk size=35666 sha256=60f89f9d71b5615f493425804ab2b941d5ee9d2bf2568d99d2d85b62779e55fb
+file=kmod-amneziawg-6.12.94.3.1.20260906-r2.apk size=43533 sha256=2487b40b4ada9801db5148dcbf6708a08b8f89cbd09ff3e90a66e9cacc0a9ab5
+file=luci-i18n-amneziawg-ru-3.1.0.20260922-r2.apk size=4164 sha256=e8a5d1e1f02f572d32321ed955b0ca5772032a04b2566f0e4b5b3916e2d3ac4e
+file=luci-proto-amneziawg-3.1.0.20260922-r2.apk size=29962 sha256=4ec8aa4523f359f56fb093debcd46e28d81bd2941ce6a2f9a4c6495eda7a2c32

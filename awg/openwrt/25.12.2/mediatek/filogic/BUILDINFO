@@ -1,0 +1,11 @@
+release=25.12.2
+target=mediatek
+subtarget=filogic
+pkgarch=aarch64_cortex-a53
+pkg_format=apk
+kernel_version=6.12.74
+kernel_dep=kernel=6.12.74~60d938adcb727697d3015e4285d4c290-r1
+file=amneziawg-tools-3.1.20260812-r2.apk size=35670 sha256=330e2191a4b5b65d4279d079202a555e3e348f8cddc33c02277bfb71d4af167d
+file=kmod-amneziawg-6.12.74.3.1.20260906-r2.apk size=43048 sha256=db1e1e3824cfe70fbcd11fcdb002240a882b04d8ffb5b20269102c1c4889da5a
+file=luci-i18n-amneziawg-ru-3.1.0.20260922-r2.apk size=4157 sha256=952eaeabf4071299e8e9dc9fc4b34f94de921c3f033e64c8dc5cafc35618eccf
+file=luci-proto-amneziawg-3.1.0.20260922-r2.apk size=29959 sha256=1ce350a551e1dbf2aa45b9704202d42a8574c1d3e902660f942b124d9070d88c
