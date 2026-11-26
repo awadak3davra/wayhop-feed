@@ -1,0 +1,11 @@
+release=24.10.8
+target=ramips
+subtarget=mt7621
+pkgarch=mipsel_24kc
+pkg_format=ipk
+kernel_version=6.6.144
+kernel_dep=kernel (=6.6.144~f31f6f85a36836e510d64a18a9a5f1bf-r1)
+file=amneziawg-tools_3.1.20260812-r2_mipsel_24kc.ipk size=33511 sha256=37b9655db171d93290cf81d50a111811dbe7632dcb120241dec94d01abbc3926
+file=kmod-amneziawg_6.6.144.3.1.20260906-r2_mipsel_24kc.ipk size=47038 sha256=25dca9515995cc540ca8673b62d0b063435f3a1e341f69400482b5967cf1466a
+file=luci-i18n-amneziawg-ru_3.1.0.20260922-r2_all.ipk size=4370 sha256=74ba8d1608f31da09701086a510cd8e302e04f821168c49f17ebc2416d190bf9
+file=luci-proto-amneziawg_3.1.0.20260922-r2_all.ipk size=29930 sha256=81165e907ad38e792f96e8c6f5eeb0de63a7e690af2bcca49a11b6b2c6b999b9

@@ -1,0 +1,72 @@
+Package: amneziawg-tools
+Version: 3.1.20260812-r2
+Depends: libc, ip, ip
+Source: /home/build/work/24.10.8-ramips-mt76x8/feed/amneziawg-tools
+SourceName: amneziawg-tools
+License: GPL-2.0-only Apache-2.0
+LicenseFiles: COPYING
+Section: net
+SourceDateEpoch: 1784877710
+URL: https://github.com/amnezia-vpn/amneziawg-tools
+Architecture: mipsel_24kc
+Installed-Size: 92160
+Description:  AmneziaWG is WireGuard with traffic obfuscation. This package provides the
+ generation 3.1 control program awg(8) and the netifd protocol handler
+ "amneziawg". It works with the kernel module (kmod-amneziawg) or, when no
+ module is loaded, with the userspace amneziawg-go.
+Filename: amneziawg-tools_3.1.20260812-r2_mipsel_24kc.ipk
+Size: 33511
+SHA256sum: c8d5e503935a1d8b085e8e569f3614fc53936aa7b985c44c8040bc5d9de9a585
+
+Package: kmod-amneziawg
+Version: 6.6.144.3.1.20260906-r2
+Depends: kernel (=6.6.144~4ca73159125334b180ac4bba6dc45839-r1), kmod-crypto-lib-chacha20poly1305, kmod-crypto-lib-curve25519, kmod-udptunnel4, kmod-udptunnel6
+Source: /home/build/work/24.10.8-ramips-mt76x8/feed/kmod-amneziawg
+SourceName: kmod-amneziawg
+License: GPL-2.0-only
+LicenseFiles: COPYING
+Section: kernel
+SourceDateEpoch: 1784877710
+URL: https://github.com/amnezia-vpn/amneziawg-linux-kernel-module
+Architecture: mipsel_24kc
+Installed-Size: 92160
+Description:  AmneziaWG is WireGuard with traffic obfuscation (junk packets, randomised
+ headers and paddings, header protection). This is the generation 3.1
+ kernel module; configure it with amneziawg-tools (awg, netifd proto
+ "amneziawg").
+Filename: kmod-amneziawg_6.6.144.3.1.20260906-r2_mipsel_24kc.ipk
+Size: 39211
+SHA256sum: 069e7a0ef11c21ecff98fb1bf03ffbb86811085502d6791ebdbe2ad06675c5de
+
+Package: luci-i18n-amneziawg-ru
+Version: 3.1.0.20260922-r2
+Depends: libc, luci-proto-amneziawg
+Source: /home/build/work/24.10.8-ramips-mt76x8/feed/luci-proto-amneziawg
+SourceName: luci-proto-amneziawg
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1784877710
+Architecture: all
+Installed-Size: 20480
+Description:  Translation for luci-proto-amneziawg - Русский (Russian)
+Filename: luci-i18n-amneziawg-ru_3.1.0.20260922-r2_all.ipk
+Size: 4373
+SHA256sum: 00c4076c969e29c5c43664cac0448e63f1ea386840068131b6e20e4a2103e6a8
+
+Package: luci-proto-amneziawg
+Version: 3.1.0.20260922-r2
+Depends: libc, amneziawg-tools, ucode, luci-lib-uqr, resolveip
+Source: /home/build/work/24.10.8-ramips-mt76x8/feed/luci-proto-amneziawg
+SourceName: luci-proto-amneziawg
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1784877710
+URL: https://github.com/openwrt/luci
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 102400
+Description:  LuCI protocol page for AmneziaWG interfaces (netifd protocol amneziawg)
+Filename: luci-proto-amneziawg_3.1.0.20260922-r2_all.ipk
+Size: 29929
+SHA256sum: 018dcf4d6ab25ad0c08dc3841a3c02bc87354dbd7e898e45e0e2cc6a5c39a862
+

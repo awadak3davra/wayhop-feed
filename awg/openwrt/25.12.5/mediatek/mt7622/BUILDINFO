@@ -1,0 +1,11 @@
+release=25.12.5
+target=mediatek
+subtarget=mt7622
+pkgarch=aarch64_cortex-a53
+pkg_format=apk
+kernel_version=6.12.94
+kernel_dep=kernel=6.12.94~5721f98a447ca737b75326f25e62c50c-r1
+file=amneziawg-tools-3.1.20260812-r2.apk size=35668 sha256=ed2b2f0811e3f009307ab7d85754409cd237f3b96e5b80a3906eacb365780e8f
+file=kmod-amneziawg-6.12.94.3.1.20260906-r2.apk size=42937 sha256=f482ca0f97c51f4480d912316477dda06e3fa2a2d571ef5c5bfb93d277772929
+file=luci-i18n-amneziawg-ru-3.1.0.20260922-r2.apk size=4160 sha256=47b25565d9b3c8cf820222304c4b95a0aa2205cc0e89434c141632118426ed52
+file=luci-proto-amneziawg-3.1.0.20260922-r2.apk size=29965 sha256=a347fb3587c5f9a69d95c7c11223f1f0c296a2cde523dee4c226edc1c23d1da1

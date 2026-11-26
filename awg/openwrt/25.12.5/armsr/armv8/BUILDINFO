@@ -1,0 +1,11 @@
+release=25.12.5
+target=armsr
+subtarget=armv8
+pkgarch=aarch64_generic
+pkg_format=apk
+kernel_version=6.12.94
+kernel_dep=kernel=6.12.94~ba5ca7f3e73618aeece9cc1c14e512c2-r1
+file=amneziawg-tools-3.1.20260812-r2.apk size=35778 sha256=c2edf4f2112069eb6e7da3f4cd0c907c731d03589e420820195b27318762557a
+file=kmod-amneziawg-6.12.94.3.1.20260906-r2.apk size=43268 sha256=584ec9223d196f89ad7184c6254b5af784f1781f8024c4e913f364b682a46c5e
+file=luci-i18n-amneziawg-ru-3.1.0.20260922-r2.apk size=4160 sha256=c37b09bd76086f147a8df612f4cc393db40334220226997d9a0976010f6647e0
+file=luci-proto-amneziawg-3.1.0.20260922-r2.apk size=29965 sha256=fd41dfc4ceafb7b5368f5abbf62ae45cacb7913abc4df7065e7ede8321e9f549
